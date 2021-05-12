@@ -25,6 +25,7 @@ ul, li {
   background-image: url('./images/header-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 57px;
 }
 
 header a {
@@ -33,6 +34,7 @@ header a {
 
 .nav {
   display: flex;
+  align-items: center;
 }
 
 .navbar {
@@ -50,4 +52,45 @@ header a {
 .navbar li a {
   text-decoration: none;
   font-size: 14px;
+}
+
+.phone-tel {
+  font-size: 17px;
+  text-decoration: none;
+  margin-left: auto;
+}
+
+.burning-man {
+  margin-top: 216px;
+  padding-bottom: 322px;
+}
+
+.burning-man p {
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.the-life {
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+.burning-man__main {
+  font-size: 100px;
+  color: #FFFFFF;
+  margin-bottom: 19px;
+  margin-top: -9px;
+}
+
+.book-tickets {
+  background: transparent;
+  border: 1px solid #fff;
+  text-transform: uppercase;
+  padding: 16px 23px;
+  color: #fff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  margin: 0;
+  width: 240px;
 }
