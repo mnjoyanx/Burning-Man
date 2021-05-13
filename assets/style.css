@@ -94,3 +94,59 @@ header a {
   margin: 0;
   width: 240px;
 }
+
+.about {
+  margin-top: 113px;
+}
+
+.about-title {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.about-div {
+  width: 564px;
+  text-align: justify;
+}
+
+.about-div h2 {
+  font-size: 25px;
+  line-height: 36.8px;
+  font-weight: 400;
+}
+
+.about-div p {
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.about-main {
+  margin-top: 58px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 67px;
+}
+
+.footer {
+  padding-top: 114px;
+}
+
+.footer-main {
+  display: flex;
+}
+
+.footer-main p {
+  font-family: sans-serif;
+  font-size: 15px;
+  width: 244px;
+}
+
+.hello-js {
+  margin-left: 55px;
+}
